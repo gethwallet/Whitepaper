@@ -1,4 +1,4 @@
-#Litepaper
+# Litepaper
 Download Geth Wallet Litepaper Above to familiarize yourself with the project.
 
 # Whitepaper
