@@ -6,5 +6,6 @@ Download Geth Wallet Litepaper Above to familiarize yourself with the project.
 ## Whitepaper
 Whitepaper &amp; Roadmap for Geth Wallet Project (https://geth.trade)
 
-### Coming Soon
+| ℹ️ **Coming soon**: Technical Whitepaper will be released by 31st August 2019. |
+| --- |
 
